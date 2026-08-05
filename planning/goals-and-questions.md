@@ -25,14 +25,19 @@ A working doc — Brandy, edit freely or just answer inline.
     handled once a week — home can lean into **phonics/reading, math, Bible,
     and hands-on science/nature/crafts**.
 
+- **The younger two:** daughter turns 3 in September — **yes to tag-along
+  activities** designed so she can join in at her level. Son is 7 months, so
+  he's just along for the ride this year.
+- **State: Kansas.** Compulsory school age is 7, so this year and next are
+  completely paperwork-free. See `kansas-requirements.md` for the full
+  picture.
+
 ## Still open
 
 1. What matters most this first year — reading readiness, love of learning,
    Bible knowledge, routine, something else?
-2. How should the younger two fit in — tag-along activities, or plans for
-   occupying them during lessons?
-3. Which state are we in? (Confirms this year is paperwork-free — compulsory
-   school age is 6+ in most states.)
+2. Which curriculum sample wins the September trial — MFW K or Heart of
+   Dakota? (See `../curriculum-research/christian-curriculum-options.md`.)
 
 ## Brandy's brain-dump space
 
