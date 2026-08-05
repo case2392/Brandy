@@ -68,8 +68,16 @@ Either way, a **separate Bible resource with activities** fits what Brandy
 described — e.g. The Biggest Story Bible Storybook or Jesus Storybook Bible
 plus simple activities/crafts per story (we can build these in `materials/`).
 
+## Update (Aug 2026): a fourth option emerged
+
+We already use Singapore Math pre-K books, and Brandy is drawn to Treehouse
+Schoolhouse and Logic of English. Those three combine into a complete
+"build-your-own stack" that is now the front-runner — see
+`build-your-own-stack.md` for the full breakdown.
+
 ## Next steps
 
 - [ ] Order/download free samples of MFW K and Heart of Dakota
+- [ ] Compare against the Treehouse + LOE + Singapore stack (`build-your-own-stack.md`)
 - [ ] Trial one week of each in September before buying full sets
 - [ ] Decide whether TGTB stays in the running or drops
