@@ -40,19 +40,36 @@ Broader roundups:
 - [Kingdom First Homeschool: Top preschool picks](https://kingdomfirsthomeschool.com/top-homeschool-preschool-curriculum/)
 - [7 Christian preschool curriculums compared](https://montessorichildrenscenter.com/f/7-best-christian-preschool-curriculums-compared)
 
-## How to choose (the real fork in the road)
+## Our shortlist (updated Aug 2026, based on Brandy's answers)
 
-The biggest differentiator isn't "which is most Christian" — it's **teaching
-style**, because Brandy is the one living with it every day:
+Brandy's profile: **structure at the table is fine, but interactive and
+hands-on — not workbook-all-day. Bible covered through activities and
+kid-level breakdowns, not necessarily woven into every subject. Budget
+flexible.** The weekly enrichment program already covers writing practice,
+music/movement, and social time.
 
-1. **Open-and-go workbooks** (CLE, Horizons, Abeka): minimal prep, clear
-   checklist feeling. Good if she wants structure and visible progress.
-2. **Literature/experience-based** (Sonlight, MFW, Heart of Dakota,
-   Masterbooks): snuggle-on-the-couch reading, crafts, nature walks. Good if
-   she wants gentle and relational — the usual recommendation at this age.
+That profile points strongly at:
 
-## Open questions
+1. **My Father's World — "God's Creation from A to Z" (K)** — best fit on
+   paper. Letter-of-the-week structure (predictable table time) but each unit
+   is built around crafts, experiments, and activities, with Bible taught
+   through character traits and stories at kid level. Exactly the
+   "structured but interactive" blend.
+2. **Heart of Dakota — "Little Hearts for His Glory"** — runner-up. Gentle
+   daily rhythm with Bible, activities, and read-alouds in short blocks;
+   designed to fold in younger siblings, which matters with two littles at
+   home.
+3. **The Good and the Beautiful (LA + Math K)** — still viable for
+   *academics only*: strong, fairly interactive language arts. Would need us
+   to add our own Bible time (see below) and requires being at peace with
+   the LDS-founder question.
 
-- [ ] Which style sounds like *Brandy* — checklist or couch?
-- [ ] Budget range for the year?
-- [ ] Request free samples from top 2–3 and try one week of each?
+Either way, a **separate Bible resource with activities** fits what Brandy
+described — e.g. The Biggest Story Bible Storybook or Jesus Storybook Bible
+plus simple activities/crafts per story (we can build these in `materials/`).
+
+## Next steps
+
+- [ ] Order/download free samples of MFW K and Heart of Dakota
+- [ ] Trial one week of each in September before buying full sets
+- [ ] Decide whether TGTB stays in the running or drops
