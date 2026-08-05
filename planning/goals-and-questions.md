@@ -19,8 +19,9 @@ A working doc — Brandy, edit freely or just answer inline.
   covered at some point — ideally with activities and kid-level breakdowns,
   not just reading at her.
 - **Budget:** flexible.
-- **Weekly enrichment program covers:** writing time, recess, music/movement,
-  and circle time (circle time is probably mostly social).
+- **Weekly enrichment program:** Tuesdays, 9:00–12:00. Covers writing time,
+  recess, music/movement, and circle time (circle time is probably mostly
+  social).
   - Implication for home days: writing practice, music, and social are
     handled once a week — home can lean into **phonics/reading, math, Bible,
     and hands-on science/nature/crafts**.

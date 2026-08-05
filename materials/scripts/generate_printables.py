@@ -239,8 +239,8 @@ def rhythm_chart(path):
     ctext(c, rx, y + 4, "FOCUS OF THE DAY", BOLD, 11, INK)
     days = [
         ("Monday", "New letter + Bible story of the week", PALE_BLUE, BLUE),
-        ("Tuesday", "Letter practice + numbers", PALE_BLUE, BLUE),
-        ("Wednesday", "ENRICHMENT SCHOOL DAY (3 hrs) — home is just read-alouds", PALE_GOLD, GOLD),
+        ("Tuesday", "ENRICHMENT SCHOOL DAY, 9:00–12:00 — home is just read-alouds", PALE_GOLD, GOLD),
+        ("Wednesday", "Letter practice + numbers", PALE_BLUE, BLUE),
         ("Thursday", "Numbers + science / nature", PALE_BLUE, BLUE),
         ("Friday", "Craft day + review + library trip", PALE_BLUE, BLUE),
     ]
@@ -263,7 +263,7 @@ def rhythm_chart(path):
     c.roundRect(rx, y, rw, 64, 8, stroke=1, fill=1)
     ctext(c, rx + 12, y + 48, "Remember", BOLD, 11, GREEN)
     tips = ("Total seat work is only ~45 min. Everything else is play, books, "
-            "and life. Swap the school-day column to whichever day her program meets.")
+            "and life. A short day is still a school day.")
     c.setFillColor(INK)
     c.setFont(FONT, 9)
     for i, line in enumerate(simpleSplit(tips, FONT, 9, rw - 24)[:3]):
