@@ -1,5 +1,9 @@
 # Little Hearts for His Glory — Trial Week Shopping List
 
+> **STATUS (Aug 2026): Ordered.** History for Little Pilgrims + its Coloring
+> Book are on the way from HOD. Everything else below runs on substitutions.
+> Trial week starts when the books arrive; full package decision after.
+
 What Unit 1, Days 1–5 (the free "First Week of Plans" sample) actually
 requires, and what to buy vs. substitute. The sample PDF itself *is* the
 teacher's guide for week 1, so no guide purchase is needed to trial it.
