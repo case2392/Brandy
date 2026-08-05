@@ -1,49 +1,45 @@
 # Heart of Dakota Order Guide — Little Hearts for His Glory
 
-How HOD's ordering works: you buy the **Economy Package (the core)**, then
-add the **grade-level Basic Package** and choose phonics/handwriting options.
-Verify contents/prices at checkout — [order page](https://www.heartofdakota.com/little-hearts-for-his-glory/).
+**Verified against HOD's actual shop pages (Aug 2026 screenshots).**
+Order at: https://www.heartofdakota.com/little-hearts-for-his-glory/
 
-## What to order (Olivia: turns 5 in the fall, Singapore pre-K done)
+## The order (Olivia: turns 5 in the fall, Singapore pre-K done)
 
-### 1. Little Hearts for His Glory — Economy Package (~$69)
-The core. Includes the teacher's guide plus the history, language arts,
-Bible, art, and thinking-skills resources: History for Little Pilgrims (+
-coloring book), the Storytime Set (Burgess animal stories — Reddy Fox etc.),
-the Visual History Set, Scripture Memory Cards, and The Magnificent Names of
-Jesus devotional.
+| Item | Choose | Price |
+|---|---|---|
+| Economy Package | **Option 1: Kindergarten Economy Package** | $213.10 |
+| Basic Package | **Option 1: Level K Basic Package with Singapore Math** | $83.79 |
+| **Total** | | **~$297 + shipping** |
 
-### 2. Kindergarten Basic Package (~$51) — choose the KINDERGARTEN level
-Adds science + math + music/devotion resources. Comes in two levels —
-**pick the kindergarten configuration**, which includes:
-- *The World God Made* (science)
-- **Essential Math Kindergarten A/B — this is Singapore Math.** The right
-  next step after the Earlybird/pre-K books she's done.
-(The 1st-grade configuration has *Our Father's World* + Singapore Primary
-1A/1B — that's next year.)
+### Why these options
 
-### 3. Phonics option — can wait
-The guide's phonics box is choose-one (The Reading Lesson, Reading Made
-Easy, etc.) or "your own program." Fine to start the year using our
-letter-of-the-week pages and add a formal phonics program a few weeks in
-once Brandy sees Olivia's readiness. If buying now, The Reading Lesson is
-the gentle, scripted pick.
+- **Kindergarten Economy Package** — the core: the LHFHG guide + Storytime
+  Set, Visual History Set, Scripture Memory Cards, History for Little
+  Pilgrims Coloring Book, The Magnificent Names of Jesus, and the K-level
+  thinking-skills books (*Do It Carefully* + *Finding the Answers* — so the
+  fine-motor slot is covered, nothing extra needed). The First Grade version
+  is identical except for harder thinking-skills books — that's a future year.
+- **Level K Basic with Singapore Math** — devotions, science (*The World God
+  Made*), music, and **Essential Math Kindergarten A/B (Singapore)** with
+  HOD's Daily Math Plans hands-on lessons. This is the Singapore-math-kept
+  promise. (Options 2–5 swap in Math with Confidence, Apologia, or Level 1
+  math — not ours.)
 
-### 4. Handwriting option — probably skip
-Olivia's Tuesday enrichment school has dedicated writing time, and our
-tracing printables cover home practice. "Your own handwriting program" is a
-listed option in the guide. Add A Reason for Handwriting K later if wanted.
+### Skip
 
-### 5. Double-check at checkout
-- Whether *Do It Carefully* / *Going On Eagerly* (fine-motor workbooks,
-  Days 1/3 slots) are in the Economy Package or need adding (~$4 each)
-- *The Things God Made* / Visual History Set naming — the 2024 edition
-  bundles the old separate books into sets; the packages account for this
+- **Add-on: Singapore Primary Math 1A–3B Answer Key** — for Level 1 math
+  (next year)
+- **Add-on: Level 1 Singapore Textbook Set** — same
+- **Phonics** — start the year with our letter-of-the-week pages ("your own
+  program" is a listed guide option); pick a formal program (e.g. The
+  Reading Lesson) a few weeks in once readiness is clear
+- **Handwriting** — Tuesday school has writing time + our tracing pages
+  cover home practice
 
-## Note if ordering the full package now
+### Notes
 
-Skip the one-off trial-week book purchases — the packages include those
-books, so individual copies would be duplicates. Trial with the sample PDF
-when the box arrives.
-
-**Rough total: ~$120–140** for a full year of everything except phonics.
+- The guide is non-consumable — reusable free for the younger two kids.
+  Only workbooks/coloring books need rebuying per kid (~$30–50/kid later).
+- Next year's likely reorder: First Grade Economy consumables + Level 1
+  Basic with Singapore Math (Primary 1A/1B) + the answer key/textbook
+  add-ons.
