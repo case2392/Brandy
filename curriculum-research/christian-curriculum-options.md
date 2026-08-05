@@ -72,12 +72,32 @@ plus simple activities/crafts per story (we can build these in `materials/`).
 
 We already use Singapore Math pre-K books, and Brandy is drawn to Treehouse
 Schoolhouse and Logic of English. Those three combine into a complete
-"build-your-own stack" that is now the front-runner — see
-`build-your-own-stack.md` for the full breakdown.
+"build-your-own stack" — see `build-your-own-stack.md` for the full breakdown.
+
+## DECISION (late Aug 2026): all-in-one for year one
+
+Brandy decided a build-your-own stack is too many moving pieces for a first
+year with three very small kids. Going with an **all-in-one box** for year
+one, with one requirement: she really likes **Singapore Math** and wants to
+keep it if possible.
+
+**That makes Heart of Dakota's "Little Hearts for His Glory" the
+front-runner**, because it's the all-in-one that has Singapore Math *built
+in*: the daily plans schedule Singapore's Essential Math K A/B page by page,
+with hands-on math activities included in the guide, and the appendix has
+schedules for Singapore Primary 1A/1B when she's ready
+([HOD kindergarten overview](https://www.heartofdakota.com/2023/04/24/christian-homeschooling-kindergarten-curriculum/),
+[Essential Math K A on HOD's own store](https://www.heartofdakota.com/product/302cx-essential-math-kindergarten-a/)).
+So: one teacher's guide, open-and-go, Bible woven in, sibling-friendly — and
+Singapore Math stays.
+
+MFW K remains the backup all-in-one (its math is integrated/craft-based, and
+swapping in Singapore means running it off-book). The Treehouse/LOE stack
+is parked, not dead — pieces of it (Nature Study, a Bible study, Story School
+for little sister) can be added later or next year once the rhythm is easy.
 
 ## Next steps
 
-- [ ] Order/download free samples of MFW K and Heart of Dakota
-- [ ] Compare against the Treehouse + LOE + Singapore stack (`build-your-own-stack.md`)
-- [ ] Trial one week of each in September before buying full sets
-- [ ] Decide whether TGTB stays in the running or drops
+- [ ] Download the Little Hearts for His Glory sample pages and trial a week
+- [ ] Keep MFW K samples on hand as the comparison
+- [ ] Regroup after the trial
