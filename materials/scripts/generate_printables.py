@@ -190,6 +190,71 @@ def toddler_page(c, ch):
     c.showPage()
 
 
+# ------------------------------------------------------ practice-day page
+def practice_page(c, ch):
+    """Second worksheet per letter, for later in the week: same letter,
+    different activities (rainbow trace, matching, letter-grid hunt)."""
+    up, lo = ch.upper(), ch.lower()
+    header_footer(c, "LETTER OF THE WEEK", "Practice Day", accent=GREEN)
+    name_line(c, H - 78)
+
+    # 1: rainbow trace
+    ctext(c, 54, H - 112, "Rainbow trace!  Trace the big letters again and again",
+          BOLD, 12, GREEN)
+    ctext(c, 54, H - 127, "with 3 different colors:", BOLD, 12, GREEN)
+    size = 130
+    pair = up + " " + lo
+    gw = stringWidth(pair, BOLD, size)
+    stroke_letter(c, (W - gw) / 2, H - 260, pair, size,
+                  color=TRACE, dashed=False, width=1.6)
+
+    # 2: matching — connect uppercase to lowercase
+    ctext(c, 54, H - 305, "Match!  Draw a line from each BIG letter to its little letter:",
+          BOLD, 12, BLUE)
+    rng = random.Random(ord(up) * 7)
+    idx = string.ascii_uppercase.index(up)
+    trio = [up,
+            string.ascii_uppercase[(idx + 9) % 26],
+            string.ascii_uppercase[(idx + 17) % 26]]
+    left = trio[:]
+    right = [t.lower() for t in trio]
+    rng.shuffle(right)
+    y0 = H - 350
+    for i in range(3):
+        c.setFillColor(INK)
+        c.setFont(BOLD, 40)
+        c.drawCentredString(200, y0 - i * 58, left[i])
+        c.drawCentredString(412, y0 - i * 58, right[i])
+        c.setFillColor(SOFT)
+        c.circle(235, y0 - i * 58 + 12, 3, stroke=0, fill=1)
+        c.circle(377, y0 - i * 58 + 12, 3, stroke=0, fill=1)
+
+    # 3: grid hunt — color every box with the letter
+    gy = H - 560
+    ctext(c, 54, gy + 18, f"Color every box that has  {up}  or  {lo}  inside:",
+          BOLD, 12, ROSE)
+    cols, rows = 6, 3
+    cw, chh = (W - 108) / cols, 52
+    others = [l for l in string.ascii_uppercase if l != up]
+    cells = [up, up, lo, lo, up.lower() if rng.random() < 0.5 else up]
+    while len(cells) < cols * rows:
+        o = rng.choice(others)
+        cells.append(o if rng.random() < 0.5 else o.lower())
+    rng.shuffle(cells)
+    c.setLineWidth(1)
+    c.setDash([])
+    for r in range(rows):
+        for k in range(cols):
+            x = 54 + k * cw
+            y = gy - 18 - (r + 1) * chh
+            c.setStrokeColor(SOFT)
+            c.rect(x, y, cw, chh)
+            c.setFillColor(INK)
+            c.setFont(BOLD, 26)
+            c.drawCentredString(x + cw / 2, y + 15, cells[r * cols + k])
+    c.showPage()
+
+
 # ------------------------------------------------------------- rhythm chart
 def rhythm_chart(path):
     LW, LH = landscape(letter)
@@ -598,6 +663,12 @@ def main():
     c = canvas.Canvas(os.path.join(low, "toddler-pages-A-Z.pdf"), pagesize=letter)
     for ch in string.ascii_uppercase:
         toddler_page(c, ch)
+    c.save()
+
+    c = canvas.Canvas(os.path.join(OUT, "Letter Practice Day Pages A-Z.pdf"),
+                      pagesize=letter)
+    for ch in string.ascii_uppercase:
+        practice_page(c, ch)
     c.save()
 
     rhythm_chart(os.path.join(OUT, "weekly-rhythm-chart.pdf"))
