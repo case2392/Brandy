@@ -74,7 +74,28 @@ We already use Singapore Math pre-K books, and Brandy is drawn to Treehouse
 Schoolhouse and Logic of English. Those three combine into a complete
 "build-your-own stack" — see `build-your-own-stack.md` for the full breakdown.
 
-## DECISION (late Aug 2026): all-in-one for year one
+## FINAL DECISION (late Aug 2026): The Good and the Beautiful Preschool
+
+After starting the trial, we simplified further: for a first year with three
+littles, even the all-in-one felt like too much for pre-K. Going with:
+
+- **TGTB Preschool Course Set** (the basic bundle only — no science units,
+  no activity add-ons). Correct placement for Olivia: she's just starting
+  letters, and the course runs ages 3–5. Covers letters/sounds, rhyming,
+  shapes, counting, and beginning handwriting in short open-and-go lessons.
+- **Singapore Math** continues alongside (Essential Math K A when current
+  workbooks run out)
+- **Bible at home**: morning basket with our Bible Story Time sheets +
+  memory verses + History for Little Pilgrims as read-aloud (covers TGTB's
+  deliberate doctrine-lightness)
+- **Our printables** fill the activity/variety slot
+- Next year: TGTB Language Arts K is a free PDF; preschool course book
+  reuses for little sister
+
+The Heart of Dakota plan below is superseded but kept for reference — it
+remains the strongest all-in-one if we ever want more structure.
+
+## Superseded: all-in-one for year one
 
 Brandy decided a build-your-own stack is too many moving pieces for a first
 year with three very small kids. Going with an **all-in-one box** for year
